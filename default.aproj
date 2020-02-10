@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project ver="26" name="say" libEmbed="true" icon="..." ui="console" output="say.exe" CompanyName="单位名称" FileDescription="say" LegalCopyright="Copyright (C) 单位名称 2020" ProductName="say" InternalName="say" FileVersion="0.0.0.1" ProductVersion="0.0.0.1" publishDir="/dist/">
+	<file name="main.aardio" path="main.aardio" comment="启动程序代码"/>
+	<folder name="资源文件" path="res" embed="true"/>
+</project>
